@@ -1,0 +1,66 @@
+body {
+    position: absolute;
+    left: 525px;
+    background-color: black;
+}
+
+
+.puntos {
+    position: relative;
+    left: 325px;
+}
+
+.lazo {   
+    position: relative;
+    left: 300px;
+}
+h2, h3 {
+    font-size: 1rem;
+}
+.interlineado{
+    line-height : 5px;
+}
+.arriba {
+    
+    position: relative;
+    padding: 3pt;
+    background-color: white;
+    width: 450px;
+    height: 65px; 
+    top: 5pt;
+}
+.arriba > div{
+    display: inline-block;
+    font-size: 2rem;
+}
+.iconos {
+    background-color: white;
+    width: 450px; 
+    padding: 3pt;
+    position: relative;
+    height: 45px;
+    top: 
+    
+
+
+}
+.iconos > div{
+    display: inline-block;
+    font-size: 2rem;
+}
+
+.texto {
+    background-color: white;
+    width: 450px; 
+    padding: 3pt;
+    position: relative;
+    top: -5px;
+}
+
+
+.black {
+    width: 458px; 
+    height: 350px;
+    position: relative;
+    top: 5px;
+}
